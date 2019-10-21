@@ -1,0 +1,12 @@
+
+Msquid:S1197"8Move the array designator from the variable to the type.(¹Ç ‡
+csquid:S1192"IDefine a constant instead of duplicating this literal "category" 5 times.(¶¾ÿ÷ýÿÿÿÿ
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜Ç£a
+Rsquid:S1197"8Move the array designator from the variable to the type.( Œû¸úÿÿÿÿ
+3squid:S2386"Make member "list" "protected".(˜Ç£a
+Rsquid:S1197"8Move the array designator from the variable to the type.(÷Ÿéîüÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(´ã³£ÿÿÿÿÿ
+Dsquid:S1444"*Make this "public static list" field final(Õäåƒþÿÿÿÿ
+7squid:S2386"Make this member "protected".(´ã³£ÿÿÿÿÿ
+Msquid:S1197"8Move the array designator from the variable to the type.(ÉÀçÏ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(ÂºÖ ýÿÿÿÿ
